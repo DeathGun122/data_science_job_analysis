@@ -8,11 +8,11 @@ The goal of this EDA project is to analysis and visualise all jobs and skills in
 
 ## Questions to Answer :
 * What are the most demanded skills for the top 3 most popular data roles?
-* How are in-demand skills trending for Data Analysts?
-* How well do jobs and skills pay for Data Analysts?
-* What is the most optimal skill to learn for Data Analysts? (High Demand AND High Paying)
+* How are in-demand skills trending for Data Scientists?
+* How well do jobs and skills pay for Data Scientists?
+* What is the most optimal skill to learn for Data Scientists? (High Demand AND High Paying)
 
-I'll be focusing on Data Scientist roles in India.
+I'll be focusing on US based Data Scientist roles.
 
 ## Features :
 * Investigating Top Skills in Data Science
@@ -23,7 +23,7 @@ I'll be focusing on Data Scientist roles in India.
 * Data Interpretation
 
 ## Tech Stack :
-Python, Jupyter Notebook, Numpy, Pandas, Matplotlib
+Python, Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn
 
 ## Project Date :
-25.08.2025
+25.08.2025 - 26.08.2025
