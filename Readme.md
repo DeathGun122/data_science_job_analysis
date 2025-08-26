@@ -23,7 +23,7 @@ I'll be focusing on US based Data Scientist roles.
 * Data Interpretation
 
 ## Tech Stack :
-Python, Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn
+Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
 
 ## Project Date :
 25.08.2025 - 26.08.2025
